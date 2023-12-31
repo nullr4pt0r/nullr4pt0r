@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 
 - 💻 Currently, I'm working as a Java full-stack Developer, utilizing my expertise in Java and Angular to develop robust web applications.
 - ⚡ In my free time, I love exploring new ideas and brainstorming new business ideas.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-raguvaran-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/n-raguvaran/)
 
-![Raguvaran github stats](https://github-readme-stats.vercel.app/api?username=nullr4pt0r&theme=codeSTACKr)
+
+![nullr4pt0r github stats](https://github-readme-stats.vercel.app/api?username=nullr4pt0r&theme=codeSTACKr)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nullr4pt0r&theme=codeSTACKr&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullr4pt0r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
