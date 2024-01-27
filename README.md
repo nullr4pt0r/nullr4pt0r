@@ -29,5 +29,5 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 
 
 ![nullr4pt0r's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullr4pt0r&show_icons=true&theme=transparent)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nullr4pt0r&theme=codeSTACKr&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com?user=nullr4pt0r)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullr4pt0r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
